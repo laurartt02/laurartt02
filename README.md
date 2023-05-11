@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @laurartt02
-- 👀 I’m interested in AI, Robotics & Deep Learning
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ...
